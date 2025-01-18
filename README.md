@@ -10,7 +10,7 @@
 📫 Feel free to reach out: xabier139@gmail.com.
 
 ##Featured prijects
-- [Project 1](https://github.com/XabierAC/FS25 Java)
+- [FS25](https://github.com/XabierAC/FS25-Java)
 
 
 ## GitHub Analytics
